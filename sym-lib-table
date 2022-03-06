@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Interfaces_Oticas)(type Legacy)(uri ${KIPRJMOD}/Interfaces_Oticas.lib)(options "")(descr ""))
+  (lib (name "Inteface Otica-RS232-cache")(type Legacy)(uri "${KIPRJMOD}/Inteface Otica-RS232-cache.lib")(options "")(descr ""))
+  (lib (name HFBR)(type Legacy)(uri ${KIPRJMOD}/HFBR.lib)(options "")(descr ""))
+)
